@@ -1,4 +1,4 @@
-//rotate an arry to the left 1 position
+
 //roatate the last n number to the left
 function rotate(array, stepsToShift) {
 
